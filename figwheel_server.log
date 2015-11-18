@@ -1,0 +1,441 @@
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: Invalid token: key: on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 18, column 46
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: Invalid token: key: on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 18, column 46
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.08 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.159 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.102 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.1 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.097 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.101 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.128 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 2.095 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.162 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.152 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/devcards_out/cljs_deps.js
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.22 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.147 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.151 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.164 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.311 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/init-date at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var hello-devcards.core/places at line 36 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.21 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/init-date at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var hello-devcards.core/places at line 36 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: No such namespace: places, could not locate places.cljs, places.cljc, or Closure namespace "" at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var places/init-date at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: No such namespace: places, could not locate places.cljs, places.cljc, or Closure namespace "" at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var places/list at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.228 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: No such namespace: places, could not locate places.cljs, places.cljc, or Closure namespace "" at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var places/init-date at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: No such namespace: places, could not locate places.cljs, places.cljc, or Closure namespace "" at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var places/list at line 35 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (prev-date places) at line 38 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 38, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (quote (prev-date places)) at line 38 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 38, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.138 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (prev-date places) at line 38 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 38, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.149 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (quote (prev-date places)) at line 38 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 38, column 15
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.137 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 44, column 22
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/head at line 46 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/head at line 46 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Unsupported binding form: (quote (places prev-date)) at line 40 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 40, column 19
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.143 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/head at line 46 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.182 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.167 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.168 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: EOF while reading, starting at line 14 and column 1 on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 74, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.12 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 14 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 14, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.107 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 14 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 14, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/add-days at line 16 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.231 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/Date at line 15 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var hello-devcards.core/Date at line 15 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 55, column 24
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.131 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: Unmatched delimiter } on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 55, column 24
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.137 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/city at line 20 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+WARNING: Use of undeclared Var hello-devcards.core/limit at line 20 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 20 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 20, column 3
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.116 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mANALYSIS ERROR: let requires an even number of forms in binding vector at line 20 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 20, column 3
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.131 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" failed.
+[0mERROR: EOF while reading, starting at line 19 and column 1 on file /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs, line 82, column 1
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.122 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.192 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to PlaceDisplay at line 23 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Wrong number of args (7) passed to PlaceDisplay at line 23 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.193 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.181 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.179 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.177 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.266 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.18 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.202 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.174 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.176 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/days at line 31 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/days at line 18 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+WARNING: Use of undeclared Var hello-devcards.core/days at line 18 /Users/jwoo/Code/hello-devcards/src/hello_devcards/core.cljs
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.201 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.178 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.195 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.186 seconds.[0m
+[0mCompiling "resources/public/js/compiled/hello_devcards_devcards.js" from ["src"]...
+notifying browser that file changed:  out/hello_devcards/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/hello_devcards_devcards.js" in 0.192 seconds.[0m
