@@ -13,7 +13,7 @@
 
 (defn make-new-limit [prev-limit limit length]
   (if limit
-    (- limit length)
+    (if (number? limit) (- limit length) limit)
     (if prev-limit
       (- prev-limit length)
       nil)))
@@ -48,9 +48,40 @@
                    (Place. "Japan" "Sapporo" 48 nil)
                    (Place. "Hong Kong" "Hong Kong" 30 90)
                    (Place. "Taiwan" "Taipei" 7 90)
-                   (Place. "USA" "Little Rock" 7 nil)]}))
+                   (Place. "USA" "Little Rock" 7 :none)]}))
 
 (defmulti mutate om/dispatch)
+
+(defmethod mutate 'app/edit-row
+  [{:keys [state] :as env} key {:keys [index]}]
+  {:action
+   (fn []
+     (swap! state assoc :app/editing index))})
+
+(defmethod mutate 'app/cancel-edits
+  [{:keys [state] :as env} key {:keys [index]}]
+  {:action
+   (fn []
+     (swap! state assoc :app/editing nil))})
+
+(defmethod mutate 'app/save-edits
+  [{:keys [state] :as env} key {:keys [index]}]
+  {:action
+   (fn []
+     (swap! state assoc :app/editing nil))})
+
+(defmethod mutate 'places/add-row
+  [{:keys [state] :as env} key {:keys [index]}]
+  {:action
+   (fn []
+     (swap! state update-in
+       [:places/list]
+       (fn [places]
+         (vec
+           (concat
+             (subvec places 0 index)
+             [(Place. "" "" 0 nil)]
+             (subvec places index))))))})
 
 (defmulti read om/dispatch)
 
@@ -78,17 +109,42 @@
 (defui PlacesList
   static om/IQuery
   (query [this]
-    '[:app/title :places/list])
+    '[:app/title :app/editing :places/list])
   Object
   (render [this]
-    (let [{:keys [app/title places/list]} (om/props this)]
+    (let [{:keys [app/title app/editing places/list]} (om/props this)]
       (dom/div nil
         (dom/title nil title)
         (dom/h1 nil title)
-        (apply dom/ul nil
-          (map
-            (fn [place]
-              (dom/li nil (str place)))
+        (apply dom/div nil
+          (map-indexed
+            (fn [index place]
+              (dom/div nil
+                (str place)
+                (if (= editing index)
+                  (dom/div nil
+                    (dom/button #js {:onClick
+                                     (fn [e] (om/transact!
+                                               this
+                                               `[(app/save-edits)]))}
+                                "save")
+                    (dom/button #js {:onClick
+                                     (fn [e] (om/transact!
+                                               this
+                                               `[(app/cancel-edits)]))}
+                                "cancel"))
+                  (dom/div nil
+                    (dom/button #js {:onClick
+                                     (fn [e] (om/transact!
+                                               this
+                                               `[(app/edit-row ~{:index index})]))}
+                                "edit")))
+                (dom/button
+                  #js {:onClick
+                       (fn [e] (om/transact!
+                                 this
+                                 `[(places/add-row ~{:index (inc index)})]))}
+                  "+")))
             list))))))
 
 (def reconciler
